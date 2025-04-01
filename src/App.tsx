@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import PlayingCard from "./assets/PlayingCard.jsx";
 import preflop from "./data/preflop.json";
 import "./index.css"; // Ensure Tailwind CSS is imported here
