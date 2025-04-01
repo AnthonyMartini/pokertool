@@ -15,8 +15,7 @@
     "jsx": "react-jsx",
 
     "allowJs": true,
-    "checkJs": false,
-    "noImplicitAny": false,
+
 
     /* Linting */
     "strict": true,
